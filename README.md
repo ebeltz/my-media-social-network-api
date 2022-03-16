@@ -8,7 +8,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](render)
-  * [Languages] (#languages)
+  * [Languages](#languages)
   * [Tests](#tests)
   * [Screenshots](#screenshots)
   * [Video](#video)
