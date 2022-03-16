@@ -8,7 +8,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](render)
-  * [BuiltWith] (#Built With)
+  * [Languages] (#languages)
   * [Tests](#tests)
   * [Screenshots](#screenshots)
   * [Video](#video)
@@ -23,7 +23,7 @@
   ## License
   This project is license under MIT.
 
-  ## Built With
+  ## Languages
   * Express.js
   * MongoDB
   * Mongoose
